@@ -8,6 +8,7 @@
     <string name="overview">Overview</string>
     <string name="directed_by">Directed by</string>
     <string name="starring">Starring</string>
+    <string name="share">Share</string>
     <string-array name="data_name">
         <item>A Man Called Otto</item>
         <item>Magic Mike\'s Last Dance</item>

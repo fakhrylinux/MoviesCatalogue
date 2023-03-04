@@ -5,6 +5,9 @@
     <string name="photo_url">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:1c2cc9e8b559b37f1b92ad3f9cd1e50820220309080223.png</string>
     <string name="my_name">Muhammad Fakhry Burhanuddin</string>
     <string name="my_email">fakhry.mmpp@gmail.com</string>
+    <string name="overview">Overview</string>
+    <string name="directed_by">Directed by</string>
+    <string name="starring">Starring</string>
     <string-array name="data_name">
         <item>A Man Called Otto</item>
         <item>Magic Mike\'s Last Dance</item>
@@ -65,4 +68,34 @@
         <item>@drawable/black_panther_land</item>
         <item>@drawable/ant_man_land</item>
     </integer-array>
+    <string-array name="director">
+        <item>Marc Forster</item>
+        <item>Steven Soderbergh</item>
+        <item>Michael B. Jordan</item>
+        <item>M. Night Shyamalan</item>
+        <item>Will Merrick, Nick Johnson</item>
+        <item>James Cameron</item>
+        <item>Juan Jesús García Galocha</item>
+        <item>Alberto Vázquez</item>
+        <item>Jean-François Richet</item>
+        <item>Darren Aronofsky</item>
+        <item>Joel Crawford</item>
+        <item>Ryan Coogler</item>
+        <item>Peyton Reed</item>
+    </string-array>
+    <string-array name="starring">
+        <item>Tom Hanks, Mariana Treviño, Rachel Keller, Manuel Garcia-Rulfo, Truman Hanks, Mike Birbiglia</item>
+        <item>Channing Tatum, Salma Hayek Pinault</item>
+        <item>Michael B. Jordan, Tessa Thompson, Jonathan Majors, Wood Harris, Florian Munteanu, Phylicia Rashad</item>
+        <item>Dave Bautista, Jonathan Groff, Ben Aldridge, Nikki Amuka-Bird, Kristen Cui, Abby Quinn, Rupert Grint</item>
+        <item>Storm Reid, Joaquim de Almeida, Ken Leung, Amy Landecker, Daniel Henney, Nia Long</item>
+        <item>Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner, Bill Paxton</item>
+        <item>Joe Thomas Eleanor Tomlinson, Celia Imrie Hugh Bonneville, Sean Bean</item>
+        <item>-</item>
+        <item>Gerard Butler, Mike Colter, Yoson An, Tony Goldwyn</item>
+        <item>Brendan Fraser, Sadie Sink, Hong Chau, Ty Simpkins, Samantha Morton</item>
+        <item>Antonio Banderas, Salma Hayek Pinault, Harvey Guillén, Florence Pugh, Olivia Colman, Ray Winstone, Samson Kayo, John Mulaney, Wagner Moura, Da\'Vine Joy Randolph, Anthony Mendez</item>
+        <item>Letitia Wright Lupita Nyong\'o, Danai Gurira, Winston Duke</item>
+        <item>Paul Rudd, Evangeline Lilly, Jonathan Majors, Kathryn Newton</item>
+    </string-array>
 </resources>

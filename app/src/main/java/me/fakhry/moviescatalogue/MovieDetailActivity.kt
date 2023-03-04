@@ -27,10 +27,12 @@ class MovieDetailActivity : AppCompatActivity() {
         }
 
         if (movie != null) {
-            binding.ivPoster.load(movie.photo)
-            binding.ivPoster2.load(movie.poster)
+            binding.ivPoster.load(movie.poster)
+            binding.ivPoster2.load(movie.photo)
             binding.tvTitle.text = movie.title
             binding.tvDescription.text = movie.description
+            binding.included.tvDirector.text = movie.director
+            binding.included.tvCasting.text = movie.starring
         }
     }
 }

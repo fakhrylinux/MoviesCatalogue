@@ -41,13 +41,18 @@ class MainActivity : AppCompatActivity() {
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
         val dataPoster = resources.obtainTypedArray(R.array.data_poster)
+        val dataDirector = resources.getStringArray(R.array.director)
+        val dataStarring = resources.getStringArray(R.array.starring)
+
         val listMovies = ArrayList<Movie>()
         for (i in dataTitle.indices) {
             val movie = Movie(
                 title = dataTitle[i],
                 description = dataDescription[i],
                 photo = dataPhoto.getResourceId(i, -1),
-                poster = dataPoster.getResourceId(i, -1)
+                poster = dataPoster.getResourceId(i, -1),
+                director = dataDirector[i],
+                starring = dataStarring[i]
             )
             listMovies.add(movie)
         }

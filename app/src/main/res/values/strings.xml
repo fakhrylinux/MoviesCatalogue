@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Movies Catalogue</string>
+    <string name="movie_image">Movie image</string>
+    <string-array name="data_name">
+        <item>A Man Called Otto</item>
+        <item>Magic Mike\'s Last Dance</item>
+        <item>Creed III</item>
+        <item>Knock at the Cabin</item>
+        <item>Missing</item>
+        <item>Titanic</item>
+        <item>Mummies</item>
+        <item>Unicorn Wars</item>
+        <item>Plane</item>
+        <item>The Whale</item>
+        <item>Puss in Boots: The Last Wish</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Ant-Man and the Wasp: Quantumania</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.</item>
+        <item>Mike Lane takes to the stage again after a lengthy hiatus, following a business deal that went bust, leaving him broke and taking bartender gigs in Florida. For what he hopes will be one last hurrah, Mike heads to London with a wealthy socialite who lures him with an offer he can’t refuse… and an agenda all her own. With everything on the line, once Mike discovers what she truly has in mind, will he—and the roster of hot new dancers he’ll have to whip into shape—be able to pull it off?</item>
+        <item>After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien - a fighter who has nothing to lose.</item>
+        <item>While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.</item>
+        <item>When her mother disappears while on vacation in Colombia with her new boyfriend, June\’s search for answers is hindered by international red tape. Stuck thousands of miles away in Los Angeles, June creatively uses all the latest technology at her fingertips to try and find her before it’s too late. But as she digs deeper, her digital sleuthing raises more questions than answers… and when June unravels secrets about her mom, she discovers that she never really knew her at all.</item>
+        <item>101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic\'s departure through to its death—on its first and last voyage—on April 15, 1912.</item>
+        <item>Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, that was stolen by the ambitious archaeologist Lord Carnaby.</item>
+        <item>An army of bear cubs train and indoctrinate young recruits for the war against the unicorns, which threatens the safety of the cubs. Brothers Bluet and Tubby, along with a group of inexperienced cadets, are sent on a dangerous mission to save the Magic Forest, where the unicorns live, and start a terrible battle.</item>
+        <item>After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.</item>
+        <item>A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.</item>
+        <item>Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.</item>
+        <item>Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.</item>
+        <item>Super-Hero partners Scott Lang and Hope van Dyne, along with Hope\'s parents Janet van Dyne and Hank Pym, and Scott\'s daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/a_man_called_otto</item>
+        <item>@drawable/magic_mikes</item>
+        <item>@drawable/creed_iii</item>
+        <item>@drawable/knock_at_the_cabin</item>
+        <item>@drawable/missing</item>
+        <item>@drawable/titanic</item>
+        <item>@drawable/mummies</item>
+        <item>@drawable/unicon_wars</item>
+        <item>@drawable/plane</item>
+        <item>@drawable/the_whale</item>
+        <item>@drawable/puss_in_boots</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/ant_man</item>
+    </integer-array>
+    <integer-array name="data_poster">
+        <item>@drawable/a_man_called_otto_land</item>
+        <item>@drawable/magic_mikes_land</item>
+        <item>@drawable/creed_iii_land</item>
+        <item>@drawable/knock_at_the_cabin_land</item>
+        <item>@drawable/missing_land</item>
+        <item>@drawable/titanic_land</item>
+        <item>@drawable/mummies_land</item>
+        <item>@drawable/unicon_wars_land</item>
+        <item>@drawable/plane_land</item>
+        <item>@drawable/the_whale_land</item>
+        <item>@drawable/puss_in_boots_land</item>
+        <item>@drawable/black_panther_land</item>
+        <item>@drawable/ant_man_land</item>
+    </integer-array>
+</resources>

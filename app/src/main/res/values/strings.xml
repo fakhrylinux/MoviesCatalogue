@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Movies Catalogue</string>
     <string name="movie_image">Movie image</string>
+    <string name="about_me">About Me</string>
+    <string name="photo_url">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:1c2cc9e8b559b37f1b92ad3f9cd1e50820220309080223.png</string>
+    <string name="my_name">Muhammad Fakhry Burhanuddin</string>
+    <string name="my_email">fakhry.mmpp@gmail.com</string>
     <string-array name="data_name">
         <item>A Man Called Otto</item>
         <item>Magic Mike\'s Last Dance</item>

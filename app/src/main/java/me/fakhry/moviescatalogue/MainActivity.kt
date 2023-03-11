@@ -67,17 +67,5 @@ class MainActivity : AppCompatActivity() {
         binding.rvMovies.layoutManager = LinearLayoutManager(this)
         val movieAdapter = MovieAdapter(list)
         binding.rvMovies.adapter = movieAdapter
-
-//        movieAdapter.setOnItemClickCallback(object : MovieAdapter.OnItemClickCallback {
-//            override fun onItemClicked(data: Movie) {
-//                showSelectedMovie(data)
-//            }
-//        })
-    }
-
-    private fun showSelectedMovie(movie: Movie) {
-        val intent = Intent(this@MainActivity, MovieDetailActivity::class.java)
-        intent.putExtra(MovieDetailActivity.EXTRA_MOVIE, movie)
-        startActivity(intent)
     }
 }

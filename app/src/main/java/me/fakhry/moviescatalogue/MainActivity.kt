@@ -68,11 +68,11 @@ class MainActivity : AppCompatActivity() {
         val movieAdapter = MovieAdapter(list)
         binding.rvMovies.adapter = movieAdapter
 
-        movieAdapter.setOnItemClickCallback(object : MovieAdapter.OnItemClickCallback {
-            override fun onItemClicked(data: Movie) {
-                showSelectedMovie(data)
-            }
-        })
+//        movieAdapter.setOnItemClickCallback(object : MovieAdapter.OnItemClickCallback {
+//            override fun onItemClicked(data: Movie) {
+//                showSelectedMovie(data)
+//            }
+//        })
     }
 
     private fun showSelectedMovie(movie: Movie) {
